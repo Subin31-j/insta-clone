@@ -1,0 +1,242 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "gamerx_",
+      "profilePic": "gamer.jpg",
+      "image": "gamer.jpg",
+      "caption": "Loving the sunset vibes 🌅 #beachlife",
+      "likes": 120,
+      "comments": [
+        {
+          "id": 1,
+          "username": "amy_lee",
+          "text": "Wow, amazing view!"
+        },
+        {
+          "id": 2,
+          "username": "jake",
+          "text": "I miss the beach!"
+        }
+      ],
+      "timestamp": "2025-06-09T12:30:00"
+    },
+    {
+      "id": "2",
+      "username": "emily_rose",
+      "profilePic": "emily.jpg",
+      "image": "emily.jpg",
+      "caption": "Brunch done right 🍳🥞",
+      "likes": 89,
+      "comments": [
+        {
+          "id": 1,
+          "username": "sophia",
+          "text": "Yummy!"
+        }
+      ],
+      "timestamp": "2025-06-10T09:15:00"
+    },
+    {
+      "id": "3",
+      "username": "tech_geek",
+      "profilePic": "tech.jpg",
+      "image": "tech.jpg",
+      "caption": "Debugging never ends 😵‍💫",
+      "likes": 43,
+      "comments": [],
+      "timestamp": "2025-06-10T14:40:00"
+    },
+    {
+      "id": "4",
+      "username": "queen_sky",
+      "profilePic": "sky.jpg",
+      "image": "sky.jpg",
+      "caption": "Morning jogs keep me alive 🏃‍♀️💨",
+      "likes": 77,
+      "comments": [
+        {
+          "id": 1,
+          "username": "fit_guy",
+          "text": "Keep grinding!"
+        }
+      ],
+      "timestamp": "2025-06-09T06:30:00"
+    },
+    {
+      "id": "5",
+      "username": "cook_sanji",
+      "profilePic": "sanji.jpg",
+      "image": "sanji.jpg",
+      "caption": "Try my new lasagna recipe! 🍝",
+      "likes": 98000,
+      "comments": [
+        {
+          "id": 1,
+          "username": "foodie",
+          "text": "Looks delicious!"
+        },
+        {
+          "id": 2,
+          "username": "emily_rose",
+          "text": "Drop the recipe 👨‍🍳"
+        }
+      ],
+      "timestamp": "2025-06-08T18:00:00"
+    },
+    {
+      "id": "6",
+      "username": "king_of_hell",
+      "profilePic": "zoro.jpg",
+      "image": "zoro.jpg",
+      "caption": "Camping under the stars ✨",
+      "likes": 129888877,
+      "comments": [
+        {
+          "id": 1,
+          "username": "john_doe",
+          "text": "Peaceful vibes!"
+        }
+      ],
+      "timestamp": "2025-06-07T21:00:00"
+    },
+    {
+      "id": "7",
+      "username": "john_doe",
+      "profilePic": "john.jpg",
+      "image": "john.jpg",
+      "caption": "Victory Royale! 🎮🔥",
+      "likes": 23000,
+      "comments": [
+        {
+          "id": 1,
+          "username": "tech_geek",
+          "text": "GG bro!"
+        }
+      ],
+      "timestamp": "2025-06-10T01:45:00"
+    },
+    {
+      "id": "8",
+      "username": "D.luffy_",
+      "profilePic": "luffy.jpg",
+      "image": "luffy.jpg",
+      "caption": "This book changed my life 📚",
+      "likes": 1700000,
+      "comments": [
+        {
+          "id": 1,
+          "username": "sarah_sky",
+          "text": "Title please!"
+        }
+      ],
+      "timestamp": "2025-06-05T11:30:00"
+    },
+    {
+      "id": "9",
+      "username": "shankx._",
+      "profilePic": "shanks.jpg",
+      "image": "shanks.jpg",
+      "caption": "Mountains are calling 🏔️",
+      "likes": 200,
+      "comments": [
+        {
+          "id": 1,
+          "username": "naturelover",
+          "text": "Where is this?"
+        },
+        {
+          "id": 2,
+          "username": "john_doe",
+          "text": "Bucket list ✔️"
+        }
+      ],
+      "timestamp": "2025-06-03T16:00:00"
+    },
+    {
+      "id": "10",
+      "username": "artsy_ava",
+      "profilePic": "artsy.jpg",
+      "image": "artsy.jpg",
+      "caption": "Just finished this painting 🎨",
+      "likes": 170,
+      "comments": [
+        {
+          "id": 1,
+          "username": "emily_rose",
+          "text": "Gorgeous work!"
+        }
+      ],
+      "timestamp": "2025-06-02T13:45:00"
+    }
+  ],
+  "profile": {
+    "id": 9,
+    "username": "subin._",
+    "profilePic": "shanks.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "3",
+      "username": "tech_geek",
+      "profilePic": "tech.jpg"
+    },
+    {
+      "id": "8",
+      "username": "D.luffy_",
+      "profilePic": "luffy.jpg"
+    },
+    {
+      "id": "5",
+      "username": "cook_sanji",
+      "profilePic": "sanji.jpg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "8",
+      "username": "d.luffy_",
+      "profilePic": "luffy.jpg",
+      "image": "s1.jpg"
+    },
+    {
+      "id": "6",
+      "username": "king_of_hell",
+      "profilePic": "zoro.jpg",
+      "image": "zoro.jpg"
+    },
+    {
+      "id": "1",
+      "username": "gamerx_",
+      "profilePic": "gamer.jpg",
+      "image": "s3.jpg"
+    },
+    {
+      "id": "4",
+      "username": "queen_sky",
+      "profilePic": "sky.jpg",
+      "image": "s4.webp"
+    },
+    {
+      "id": "7",
+      "username": "john_doe",
+      "profilePic": "john.jpg",
+      "image": "s5.jpg"
+    },
+    {
+      "id": "3",
+      "username": "tech_geek",
+      "profilePic": "tech.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "3",
+      "username": "tech_geek"
+    },
+    {
+      "id": "5",
+      "username": "cook_sanji"
+    }
+  ]
+}
