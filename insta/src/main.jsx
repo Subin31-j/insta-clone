@@ -16,7 +16,7 @@ const router = createBrowserRouter(
         element : <Profile/>
       },
       {
-          basename: '/insta-clone',
+          basename: '/insta-clone'
       }        
     ]
   )
